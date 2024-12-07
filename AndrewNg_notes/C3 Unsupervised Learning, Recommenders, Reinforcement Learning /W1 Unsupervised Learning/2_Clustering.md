@@ -51,10 +51,10 @@ Consider a dataset with points in a 2D space. The K-means algorithm will:
 
 Here are some visual examples of K-means clustering:
 
-![Example 1](../img/1.png) ![Example 2](../img/2.png)
+![Example 1](./img/1.png) ![Example 2](./img/2.png)git 
 
-![Example 3](../img/3.png) ![Example 4](../img/4.png)
+![Example 3](./img/3.png) ![Example 4](./img/4.png)
 
-![Example 5](../img/5.png) ![Example 6](../img/6.png)
+![Example 5](./img/5.png) ![Example 6](./img/6.png)
 
 K-means is widely used in various applications such as customer segmentation, image compression, and pattern recognition due to its simplicity and efficiency.
