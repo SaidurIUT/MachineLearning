@@ -98,9 +98,37 @@ c<sup>(i)</sup> = index of cluster (1,2,...,k) to which example x<sup>(i)</sup> 
 
 ![cost function](./img/8.png)
 
+---
 
+## Initializing k-means
 
+---
 
+### k-means algorithm 
 
+**Step 0:** Ramdomly initialize K cluster centroids  µ<sub>1</sub> , µ<sub>2</sub>,...,  µ<sub>k</sub>  
+Repeat{  
+**Step 1:** Assign points to cluster centroids  
+**Step 2:** Mode cluster centroids  
+}  
 
+### Random initialization 
+
+Choose K < m 
+
+Randomly pick k trainig examples.
+
+Set  µ<sub>1</sub> , µ<sub>2</sub>,...,  µ<sub>k</sub> equal to these K examples.
+
+![Random initialization](./img/9.png)
+
+---
+
+## Choosing the number of clusters 
+
+---
+
+### Elbow method
+
+![Elbow method](./img/10.png)
 
